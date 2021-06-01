@@ -24,7 +24,7 @@ Each of these pillars also has its own dedicated dashboard allowing deeper insig
 
 ![Azure Security Center: Overview dashboard](../Images/asc-dashboard-overview.gif?raw=true)
 
-4.	The new overview page also includes a new tile for **Asset Inventory Dashboard** to make it easy to find and filter individual resources.
+4.	The new overview page also includes a new tile for **Azure Firewall Manager** to make it easier to access firewall manager resources and policies.
 
 ![Azure Security Center: Asset inventory](../Images/asc-dashboard-inventory.gif?raw=true)
 
