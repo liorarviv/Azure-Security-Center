@@ -86,7 +86,7 @@ Note: Exemptions is a premium Azure policy capability that's offered for Azure D
 ![Create exemption](../Images/asc-management-ports-resource-exemption.gif?raw=true)
 
 6.	The create **exemption pane** opens:
-    - Keep the name as **ASC-asclab-win-restrictAccessToManagementPortsMonitorin**.
+    - Keep the name as **ASC-Management ports should be closed on your virtual machines**.
     - Switch the **expiration** toggle button **ON** and set datetime for two days ahead on 12:00 AM.
     - Select **Waiver** as exemption category.
     - Provide a description: **Testing exemption capability – module 3**.
